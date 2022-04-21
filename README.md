@@ -1,3 +1,3 @@
-- Discord: ArviSʼ#0011
+- Discord: ArviS#0011
 - İnstagram: @arvis_here
 - Node.js - Javascript Developer
