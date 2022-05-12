@@ -17,7 +17,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=ArviSlayery&label=Ziyaretçi%20Sayısı&color=da004e" alt="ArviS" />
   
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/384345860097441794?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/384345860097441794)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/384345860097441794?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)]
  
 
 
