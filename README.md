@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArviSlayer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/952585292907434034/974362195909566474/Media_220511_222233.gif?width=581&height=581">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
 </div> 
   
  ##
@@ -17,5 +17,6 @@
    <a href="https://discord.com/users/384345860097441794" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
   
+    <img src="https://komarev.com/ghpvc/?username=ArviSlayery&label=Ziyaretçi%20Sayısı&color=da004e" alt="ArviS" />
 
   
