@@ -11,6 +11,7 @@
   ##
  
 <div> 
+  [Discord Presence](https://lanyard-profile-readme.vercel.app/api/384345860097441794?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/384345860097441794)
   <a href="https://www.youtube.com/channel/UCZ-KzHhEWPhFvAGOTBxlUeg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/arvis_here/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/384345860097441794" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -19,5 +20,5 @@
   
   <img src="https://komarev.com/ghpvc/?username=ArviSlayery&label=Ziyaretçi%20Sayısı&color=da004e" alt="ArviS" />
  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/384345860097441794?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/384345860097441794)
+
 
