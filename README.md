@@ -6,5 +6,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArviSlayer&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="ArviSlayer" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ArviSlayer&label=Sayfa%20Görüntülenmesi&color=0e75b6&style=flat-square" alt="ArviSlayer" />
+  <img src="https://komarev.com/ghpvc/?username=ArviSlayer&label=Görüntülenme%20Sayısı&color=0e75b6&style=flat-square" alt="ArviSlayer" />
 </div>
