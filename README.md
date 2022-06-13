@@ -21,7 +21,7 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ArviSlayer&color=dc143c&label=Visitors&color=6182e1" alt="ArviS"/>
 
-[⏩・&nbsp; Projelerime Göz At]https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩・&nbsp; Projelerime Göz At](https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
@@ -49,5 +49,3 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   <a href='https://profile.codersrank.io/user/arvislayer/'>
   <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arvislayer&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
-
-</details>
