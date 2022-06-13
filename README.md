@@ -41,9 +41,10 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <a href="https://mongoosejs.com/docs/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
 
+ </details>   
     
 <details>
-  <summary><b>📈・&nbsp;&nbsp;Dil&nbsp;/&nbsp;Grafik İstistikleri</b></summary>
+  <summary><b>📈・&nbsp;&nbsp;Dil&nbsp;Grafik İstistikleri</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/arvislayer/'>
   <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arvislayer&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
