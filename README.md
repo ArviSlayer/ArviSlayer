@@ -10,7 +10,7 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   
 <img src="https://wakatime.com/badge/user/b7a0b8a1-b5b3-48aa-b101-41f16dab3c71.svg?style=flat" alt="ArviS"/>
   
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArviSlayer&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArviS&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
 <details>
   <summary><b>✨・&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
