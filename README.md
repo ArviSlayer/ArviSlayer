@@ -1,5 +1,5 @@
 ### Herkese Merhaba <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Burası açık kaynak kodlu bir şey açtığım ve bir şeyleri yaptığım yer :yum:
+Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım yer :yum:
 
 🔗・&nbsp;**Benimle İletişime Geç**
 <p align="left">
@@ -12,7 +12,7 @@ Burası açık kaynak kodlu bir şey açtığım ve bir şeyleri yaptığım yer
   
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArviSlayer&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
 <details>
-  <summary><b>✨・&nbsp;&nbsp;Hakkımda&nbsp;.</b></summary>
+  <summary><b>✨・&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
 
 2 yılı aşkın süredir Discord platformunda JavaScript kullanan bir geliştiriciyim
@@ -21,7 +21,7 @@ Burası açık kaynak kodlu bir şey açtığım ve bir şeyleri yaptığım yer
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ArviSlayer&color=dc143c&label=Visitors&color=6182e1" alt="ArviS"/>
 
-[⏩・&nbsp; Ve Daha Fazlası]https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩・&nbsp; Projelerime Göz At](https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
@@ -39,12 +39,12 @@ Burası açık kaynak kodlu bir şey açtığım ve bir şeyleri yaptığım yer
 <details>
   <summary><b>🛠️・&nbsp;&nbsp;Dil&nbsp;Ve&nbsp;Araçlar</b></summary>
   <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <a href="https://mongoosejs.com/docs/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <a href="https://mongoosejs.com/docs/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
 
 </details>
     
 <details>
-  <summary><b>📈・&nbsp;&nbsp;Dil&nbsp;/&nbsp;Grafik İstistikleri</b></summary>
+  <summary><b>📈・&nbsp;&nbsp;Dil&nbsp;Grafik İstistikleri</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/arvislayer/'>
   <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arvislayer&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
