@@ -21,7 +21,7 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ArviSlayer&color=dc143c&label=Visitors&color=6182e1" alt="ArviS"/>
 
-[⏩・&nbsp; Projelerime Göz At](https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩・&nbsp; Projelerime Göz At]https://github.com/ArviSlayer?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
