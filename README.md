@@ -4,7 +4,7 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
 🔗・&nbsp;**Benimle İletişime Geç**
 <p align="left">
 <a href="https://instagram.com/arvis_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvis_here" height="30" width="40" /></a>
-<a href="https://discord.gg/Dp3EBDeFY9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArviS#2848" height="30" width="40" /></a>
+<a href="https://discord.gg/ueUzngtdn6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArviS#2848" height="30" width="40" /></a>
   
 📊・&nbsp;**Bu Hafta GitHub'da Geçirdiğim Zaman**
   
