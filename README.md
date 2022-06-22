@@ -6,12 +6,6 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
 <a href="https://instagram.com/arvis_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvis_here" height="30" width="40" /></a>
 <a href="https://discord.gg/ueUzngtdn6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArviS#2848" height="30" width="40" /></a>
   
-📊・&nbsp;**Bu Hafta GitHub'da Geçirdiğim Zaman**
-  
-<img src="https://wakatime.com/badge/user/b7a0b8a1-b5b3-48aa-b101-41f16dab3c71.svg?style=flat" alt="ArviS"/>
-  
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArviS&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
-<details>
   <summary><b>✨・&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
 
