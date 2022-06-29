@@ -11,7 +11,7 @@ Burası açık kaynak kodlu, bir şey açtığım ve bir şeyleri yaptığım ye
   <summary><b>✨・&nbsp;&nbsp;Hakkımda</b></summary>
   <br/>
 
-2 yılı aşkın süredir Discord platformunda JavaScript kullanan bir geliştiriciyim
+2 yılı aşkın süredir JavaScript kullanan bir geliştiriciyim
   
   📊・&nbsp;**Profil Görüntülenmesi**
   <p align="left">
