@@ -3,7 +3,7 @@
 </p>
 
 
-<br />
+<br/>
 <p align="center">
  <a href="https://discord.com/users/379179073382907908" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/ArviSlayer" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -14,5 +14,11 @@
 <div><img src="https://github-profile-trophy.vercel.app/?username=ArviSlayer&theme=dracula" width="1200"></div></p>
 
 
+<br/>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/379179073382907908)](https://discord.com/users/379179073382907908)
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=Atakan75&label=Ziyaretçi%20Sayısı&color=0066ff" alt="75" />
+</p>
 
