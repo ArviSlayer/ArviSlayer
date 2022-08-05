@@ -13,10 +13,6 @@
   
 <div><img src="https://github-profile-trophy.vercel.app/?username=ArviSlayer&theme=dracula" width="1200"></div></p>
 
-<br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/379179073382907908)](https://discord.com/users/379179073382907908)
 
-<br/>
-
-</p>
