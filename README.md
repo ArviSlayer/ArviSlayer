@@ -2,8 +2,6 @@
   <img src="https://count.getloli.com/get/@ArviSlayer?theme=rule34" />
 </p>
 
-[Discord Presence](https://lanyard.cnrad.dev/api/379179073382907908)]
-
 <br/>
 <p align="center">
  <a href="https://discord.com/users/379179073382907908" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
