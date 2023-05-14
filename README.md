@@ -1,3 +1,6 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)
+
+
 <p align="center">
   <img src="https://count.getloli.com/get/@ArviSlayer?theme=rule34" />
 </p>
