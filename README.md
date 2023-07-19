@@ -37,7 +37,7 @@
 ## Kullandığım Diller
 
 <p>
-<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb,mongose&perline=7"><br></br>
+<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb,mongoose&perline=7"><br></br>
 	</p>
 
 <p align="center">
