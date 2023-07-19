@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis.+(Ege Akran)"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=arvislayer&color=191717">
 
 <div align="center">
-<img src="https://github.com/luluwux/luluwux/assets/87658293/6349e038-7ac4-4064-ad0e-684bec44989d" width="90%"></div>
+<img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a1936c9f-6f7d-4ec6-9710-70c791d54c76" width="90%"></div>
 
 #
 
@@ -62,6 +62,7 @@
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
+
 
 ## Discord Profillerim
 
