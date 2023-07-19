@@ -37,7 +37,7 @@
 ## Kullandığım Diller
 
 <p>
-<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,vuejs,mysql,mongodb&perline=7"><br></br>
+<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
 	</p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=02f0d9&theme=000">
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?&theme=000">
 <div align="left" width="100%">
 
 ## İstatistiklerim
