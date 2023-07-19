@@ -16,7 +16,7 @@
 
 #
 
-<b> Hakkımda <b>
+<b> https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a05d04e7-6bdd-4d8c-bc64-245d1b44d7ad Hakkımda <b>
 
 <samp>
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
@@ -34,7 +34,7 @@
 <img width="30%" align="left" src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
 <div align="right" width="100%">
 
-## Kullandığım Diller
+## Kullandığım Teknolojiler
 
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
