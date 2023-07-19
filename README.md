@@ -1,7 +1,9 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)
 
-<img width="30%" align="left" src="https://media.discordapp.net/attachments/1087030211813593190/1131209212643508254/arvis0011-profil.png?width=340&height=482">
-<div align="right" width="100%">
+
+<h2 align="center">
+ <a href="https://discord.com/users/379179073382907908"><img  width="400px" src="https://media.discordapp.net/attachments/1087030211813593190/1131209212643508254/arvis0011-profil.png?width=340&height=482"></a>
+<a href=[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)></a>
+ </h2>
 #
 
 <p align="center">
