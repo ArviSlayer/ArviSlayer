@@ -16,14 +16,13 @@
 
 #
 
-<b> ![1000353708661547018](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/099fe054-ec84-43a8-baa9-99ea516e5d1f) Hakkımda <b>
+<b> ![1058007848543584316](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/2d59c9eb-45da-4b32-9d62-2ba376765540) HAKKIMDA <b>
 
 <samp>
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
- <br> <br> <br> <br> <br> <br> <br>
+ <br> <br> <br> <br> <br>
 
-・ Karşınızda Mütişmel [Luppux](https://discord.gg/luppux) <br>
-・ Website [Yakında](https://discord.gg/luppux)
+・ Karşınızda Mütişmel 🤮 [Luppux](https://discord.gg/luppux) <br>
 </samp>
 
 #
@@ -34,7 +33,7 @@
 <img width="30%" align="left" src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
 <div align="right" width="100%">
 
-## Kullandığım Teknolojiler
+## ![1070318193903669299](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/f3a99645-5304-42d8-9edf-0ba4acf836fc) KULLANDIĞIM TEKNOLOJİLER
 
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
