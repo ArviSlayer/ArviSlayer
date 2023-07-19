@@ -16,7 +16,7 @@
 
 #
 
-<b> ![1058007848543584316](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/2d59c9eb-45da-4b32-9d62-2ba376765540=width=20%) HAKKIMDA <b>
+<b> ![1058007848543584316](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/2d59c9eb-45da-4b32-9d62-2ba376765540 "width=20%") HAKKIMDA <b>
 
 <samp>
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
