@@ -20,7 +20,7 @@
 
 <samp>
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
- <br> <br> <br> <br> <br>
+ <br> <br> <br>
 
 ・ Karşınızda Mütişmel 🤮 [Luppux](https://discord.gg/luppux) <br>
 </samp>
