@@ -1,23 +1,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)
-
-<h2 align="center">
- <a href="https://discord.com/users/379179073382907908"><img  width="400px" src="https://luppufy-api.onrender.com/member/379179073382907908"></a>
- </h2>
-
-#
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@ArviSlayer?theme=rule34" />
-</p>
-
-#
-  
-<div><img src="https://github-profile-trophy.vercel.app/?username=ArviSlayer&theme=dracula" width="1200"></div></p>
-<br/>
-<br>
-
-
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis.+(Ege Akran)"><img align="right" width="15%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArviSlayer&theme=monokai">
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis.+(Ege Akran)"><img align="right" width="15%" src="https://count.getloli.com/get/@ArviSlayer?theme=rule34">
 
 <div align="center">
 <img src="https://github.com/luluwux/luluwux/assets/87658293/6349e038-7ac4-4064-ad0e-684bec44989d" width="90%"></div>
