@@ -46,7 +46,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?&theme=000">
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=ffffff&theme=000">
 <div align="left" width="100%">
 
 ## İstatistiklerim
