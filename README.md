@@ -16,7 +16,7 @@
 
 #
 
-<b> ![1058007848543584316](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/2d59c9eb-45da-4b32-9d62-2ba376765540 "width=20%") HAKKIMDA <b>
+<b> 💖 HAKKIMDA <b>
 
 <samp>
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
@@ -33,7 +33,7 @@
 <img width="30%" align="left" src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
 <div align="right" width="100%">
 
-## ![1070318193903669299](https://github.com/ArviSlayer/ArviSlayer/assets/69751083/f3a99645-5304-42d8-9edf-0ba4acf836fc) KULLANDIĞIM TEKNOLOJİLER
+## 👨🏻‍💻 KULLANDIĞIM TEKNOLOJİLER
 
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
@@ -48,13 +48,13 @@
 <img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=ffffff&theme=000">
 <div align="left" width="100%">
 
-## İstatistiklerim
+## 📊 İSTATİSTİKLERİM
 
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arvislayer&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvislayer&theme=dark&hide_border=true"/>
 
 
-## Şu anda ne dinliyorum?
+## 🎶 Gel Beraber Dinleyelim
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
