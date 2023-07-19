@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis.+(+Ege+Akran+)"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=arvislayer&color=191717">
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=arvislayer&color=191717">
 
 <div align="center">
 <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a1936c9f-6f7d-4ec6-9710-70c791d54c76" width="90%"></div>
@@ -9,21 +9,21 @@
 <div align="left" width="100%">
 
 <p align="center">
- <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/luluwux" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+ <a href="https://discord.com/users/379179073382907908" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/arvislayer" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/yd9wn4eb6bep381awx3ouap8p?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/arvis_here/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
 #
 
-<b> About Me <b>
+<b> Hakkımda <b>
 
 <samp>
-・ Let me introduce myself, I'm Alp. I am 17 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br>
+・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
  <br> <br> <br> <br> <br> <br> <br>
 
-・ You Should Come By [Here](https://discord.gg/luppux) <br>
-・ Website [Soon](https://discord.gg/luppux)
+・ Mütişmel [Luppux](https://discord.gg/luppux) sunucusuna gelmeyi ihmal etme. <br>
+・ Website [Yakında](https://discord.gg/luppux)
 </samp>
 
 #
@@ -31,41 +31,32 @@
 
 #
 
-<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
+<img width="30%" align="left" src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
 <div align="right" width="100%">
 
-## Technologies I use
+## Kullandığım Diller
 
 <p>
-<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb&perline=7"><br></br>
+<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,vuejs,mysql,mongodb&perline=7"><br></br>
 	</p>
 
-## Most Used 
-
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvislayer&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
 
 #
 
-<img width="30%" align="right" src="https://luppufy.onrender.com/member/852103749228036136?border=02f0d9&theme=000">
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=02f0d9&theme=000">
 <div align="left" width="100%">
 
-## My Stats
+## İstatistiklerim
 
- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=luluwux&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
- <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luluwux&theme=dark&hide_border=true"/>
-
-
-## I'm Listening Right Now
-
- <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
-
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
+ <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arvislayer&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+ <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvislayer&theme=dark&hide_border=true"/>
 
 
-## Discord Profillerim
+## Şu anda ne dinliyorum?
 
- <img width="40%" align="left" src="https://luppufy-api.onrender.com/member/379179073382907908">
+ <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
-<img  align="right" width="40%" src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379179073382907908?hideDiscrim=true)](https://discord.com/users/379179073382907908)"> 
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul"> 
