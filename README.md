@@ -22,7 +22,7 @@
 ・ İsmim Ege, 18 yaşındayım. 1 Ocak'ta 19'a giriyorum 🥳 4 yıldır yazılımla ilgileniyor, bu alanda kendimi ilerletmeye çalışıyorum. 01.01 İzmir / Bornova doğumluyum.<br>
  <br> <br> <br> <br> <br> <br> <br>
 
-・ Mütişmel [Luppux](https://discord.gg/luppux) sunucusuna gelmeyi ihmal etme. <br>
+・ Karşınızda Mütişmel [Luppux](https://discord.gg/luppux) <br>
 ・ Website [Yakında](https://discord.gg/luppux)
 </samp>
 
