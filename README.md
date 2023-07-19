@@ -1,4 +1,4 @@
-# <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis."><img align="right" width="50%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
+# <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+arvis."><img align="right" width="30%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
 
 <div align="center">
 <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a1936c9f-6f7d-4ec6-9710-70c791d54c76" width="90%"></div>
